@@ -1,7 +1,6 @@
 # Understanding-the-Career-Aspirations-of-GenZ--Kulturhire
 Explored Gen-Z career preferences and influences. 
-Designed a Power BI Dashboard to visualize insights. 
-Key findings: 
+Designed a Power BI Dashboard to visualize insights.  
 key insights:
 
 📈 Gen-Z has a strong preference for higher expected salaries, with a focus on earning more than $50k.
