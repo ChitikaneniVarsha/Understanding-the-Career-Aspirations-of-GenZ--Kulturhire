@@ -1,5 +1,6 @@
 # Understanding-the-Career-Aspirations-of-GenZ--Kulturhire
 Explored Gen-Z career preferences and influences. 
+Solved Buissness Queries using MYSQL.
 Designed a Power BI Dashboard to visualize insights.  
 key insights:
 
